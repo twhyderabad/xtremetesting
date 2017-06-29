@@ -6,8 +6,9 @@ import nalini from "./nalini.jpg";
 import spoonandfork from "./spoon-and-fork-crossed.svg";
 import ram from "./ram.jpg";
 import shiv from "./shiv.jpg";
-import noun from "./noun_1000573_cc.svg";
+import scheduleIcon from "./noun_1000573_cc.svg";
 import cup from "./cup-of-hot-chocolate.svg";
+import './EventSchedule.css';
 
 
 export default class EventSchedule extends Component {
@@ -36,9 +37,10 @@ export default class EventSchedule extends Component {
         ];
 
         return (
-            <div className="event-schedule">
-                <Day noun= {noun} day={1} date={"Aug 5, 2017"} schedule={day1}/>;
-                <Day noun= {noun} day={2} date={"Aug 6, 2017"} schedule={day2}/>;
-            </div>);
+            <section className="event-schedule">
+                <Day scheduleIcon={scheduleIcon} day={1} date={"Aug 5, 2017"} schedule={day1}/>
+                <Day scheduleIcon={scheduleIcon} day={2} date={"Aug 6, 2017"} schedule={day2}/>
+            </section>
+        );
     }
 }

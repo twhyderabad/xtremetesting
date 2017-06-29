@@ -1,9 +1,17 @@
 {
-  "main.css": "static/css/main.75867cdd.css",
-  "main.css.map": "static/css/main.75867cdd.css.map",
-  "main.js": "static/js/main.fae0ce67.js",
-  "main.js.map": "static/js/main.fae0ce67.js.map",
+  "main.css": "static/css/main.6a9fcc21.css",
+  "main.css.map": "static/css/main.6a9fcc21.css.map",
+  "main.js": "static/js/main.1859556e.js",
+  "main.js.map": "static/js/main.1859556e.js.map",
+  "static/media/abhilash.jpg": "static/media/abhilash.450668b7.jpg",
   "static/media/banner.png": "static/media/banner.6c3bfce5.png",
+  "static/media/clipboard-with-pencil-.svg": "static/media/clipboard-with-pencil-.4f754f20.svg",
+  "static/media/cup-of-hot-chocolate.svg": "static/media/cup-of-hot-chocolate.839f77b3.svg",
   "static/media/location.svg": "static/media/location.f52838ef.svg",
-  "static/media/logo-xt.png": "static/media/logo-xt.1f57a6db.png"
+  "static/media/logo-xt.png": "static/media/logo-xt.1f57a6db.png",
+  "static/media/nalini.jpg": "static/media/nalini.e73e170a.jpg",
+  "static/media/noun_1000573_cc.svg": "static/media/noun_1000573_cc.9e832f3f.svg",
+  "static/media/ram.jpg": "static/media/ram.ac6fdd08.jpg",
+  "static/media/shiv.jpg": "static/media/shiv.af53d738.jpg",
+  "static/media/spoon-and-fork-crossed.svg": "static/media/spoon-and-fork-crossed.16b572fd.svg"
 }
