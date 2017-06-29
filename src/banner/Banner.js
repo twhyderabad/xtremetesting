@@ -7,11 +7,11 @@ const Banner = () => (
         <h1>Xtreme Testing</h1>
         <h3>for Quality Analysts</h3>
         <div>
-            <span className="date">
+            <span className="date xs-full">
                 <img src={location} alt="Date and time" className="icon" />
                 <date>August 5th & 6th, 2017</date>
             </span>
-            <span className="location">
+            <span className="location xs-full">
                 <img src={location} alt="location" className="icon" />
                 <span>ThoughtWorks, Hyderabad</span>
             </span>

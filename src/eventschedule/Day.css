@@ -4,6 +4,14 @@
     box-shadow: 0 0 40px 10px #e0e0e0;
 }
 
+@media (max-width: 767px) {
+    .day-wise-schedule {
+        margin: 0 0 1rem;
+        width: auto;
+    }
+
+}
+
 .day-wise-schedule .schedule-header {
     background: #83ba81;
     padding: 13px 10px;

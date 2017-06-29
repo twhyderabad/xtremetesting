@@ -1,13 +1,48 @@
-.description {
-    display: none;
+.faq {
+    margin-bottom: 1.4rem;
 }
 
-.display,
-.show {
+.description {
+    border: 1px dashed #b1b0b0;
+    border-top: 0;
+    padding: 10px 20px;
+    line-height: 1.6rem;
+}
+
+.open,
+.close {
     display: block;
 }
 
-.close,
-.hide-plus {
+.hide {
     display: none;
+}
+
+.question {
+    padding: 10px 20px;
+    border: 1px solid #bbb;
+}
+
+.question.active {
+    background: #83ba81;
+    color: #fff;
+    border-color: transparent;
+}
+
+button.open {
+    color: #bbb;
+}
+
+button.close {
+    color: #fff;
+}
+
+.question button {
+    float: right;
+    background: none;
+    border: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: -4px;
+    cursor: pointer;
 }

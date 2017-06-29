@@ -17,3 +17,18 @@ header {
     text-decoration: none;
     color: white;
 }
+
+@media (max-width: 767px) {
+    header {
+        display: block;
+    }
+
+    .logo {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .navigation {
+        margin-bottom: 20px;
+    }
+}

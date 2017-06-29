@@ -5,5 +5,22 @@ body {
   font-family: sans-serif;
 }
 
+section.container {
+    padding: 2rem 6rem;
+}
 
+@media (max-width: 767px) {
+    .xs-full {
+        display: block;
+        width: 100%;
+    }
 
+    section.container {
+        padding: 1rem;
+        margin: 0 auto;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}

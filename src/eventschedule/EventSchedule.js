@@ -37,7 +37,7 @@ export default class EventSchedule extends Component {
         ];
 
         return (
-            <section className="event-schedule">
+            <section className="event-schedule container" id="schedule">
                 <Day scheduleIcon={scheduleIcon} day={1} date={"Aug 5, 2017"} schedule={day1}/>
                 <Day scheduleIcon={scheduleIcon} day={2} date={"Aug 6, 2017"} schedule={day2}/>
             </section>
