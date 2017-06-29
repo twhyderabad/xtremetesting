@@ -4,6 +4,8 @@ header {
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid #fff;
+    background: transparent;
+    position: relative;
 }
 
 .logo {

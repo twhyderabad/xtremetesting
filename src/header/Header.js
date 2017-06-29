@@ -20,7 +20,7 @@ const Header = () => (
         <nav className="navigation">
             {
                 navLinks.map((nav, key) => (
-                    <a href={nav.link}>{nav.name}</a>
+                    <a href={nav.link} key={key}>{nav.name}</a>
                 ))
             }
         </nav>
