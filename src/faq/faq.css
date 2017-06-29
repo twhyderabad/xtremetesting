@@ -1,0 +1,13 @@
+.description {
+    display: none;
+}
+
+.display,
+.show {
+    display: block;
+}
+
+.close,
+.hide-plus {
+    display: none;
+}
