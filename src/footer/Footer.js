@@ -15,10 +15,10 @@ const Footer = () => (
         </section>
         <section className="connect-us">
             <h3>Connect With Us</h3>
-            <a href="" title="connect via facebook">
+            <a href="https://www.facebook.com/ThoughtWorksHyderabad" target="_blank noreferrer noopener" title="connect via facebook">
                 <img src={facebook} alt="facebook"/>
             </a>
-            <a href="" title="connect via twitter">
+            <a href="https://twitter.com/thoughtworks" target="_blank noreferrer noopener" title="connect via twitter">
                 <img src={twitter} alt="twitter"/>
             </a>
         </section>
