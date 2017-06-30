@@ -24,3 +24,15 @@ body {
 * {
     box-sizing: border-box;
 }
+
+.col-50 {
+    width: 50%;
+}
+
+.section-heading {
+    color: #444;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 2px solid #83ba81;
+    display: inline-block;
+}

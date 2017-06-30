@@ -1,0 +1,26 @@
+.about {
+    display: flex;
+}
+
+.about > div {
+    flex-basis: 50%;
+}
+
+.about .desc {
+
+}
+
+.about .image {
+
+}
+
+.about img {
+    max-width: 100%;
+    border: 1px solid #83ba81;
+}
+
+@media (max-width: 768px) {
+    .about {
+        flex-direction: column;
+    }
+}

@@ -30,7 +30,7 @@ export default class FAQs extends Component {
         const questions = faqs.map((faq, index) => <FAQ key={index} faq={faq} />);
 
         return (
-            <section className="container">
+            <section className="container faqs">
                 {questions}
             </section>
         )
