@@ -59,5 +59,6 @@
 .day-wise-schedule .event .topic {
     display: block;
     font-size: .9rem;
+    font-weight: bold;
     padding-top: 5px;
 }
