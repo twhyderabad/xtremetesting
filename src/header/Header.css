@@ -13,7 +13,7 @@ header {
 }
 
 .navigation a {
-    padding: 0 15px;
+    padding: 0 12px;
     text-decoration: none;
     color: white;
 }
@@ -21,6 +21,8 @@ header {
 @media (max-width: 767px) {
     header {
         display: block;
+        text-align: center;
+        padding: 0;
     }
 
     .logo {
