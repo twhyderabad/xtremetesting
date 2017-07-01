@@ -1,6 +1,9 @@
 import React from 'react';
 import './Location.css';
 import locationIcon from './../images/location.svg';
+import timeIcon from './../images/time.svg';
+import mailIcon from './close-envelope.svg';
+import phoneIcon from './phone-receiver.svg';
 
 const Location = () => (
     <section className="location container" id="contact">
@@ -13,15 +16,15 @@ const Location = () => (
                 </span>
             </div>
             <div>
-                <img src={locationIcon} alt="email" className="icon" />
+                <img src={mailIcon} alt="email" className="icon mail" />
                 <a href="mailto:xt-hyderabad@thoughtworks.com">xt-hyderabad@thoughtworks.com</a>
             </div>
             <div>
-                <img src={locationIcon} alt="phone" className="icon" />
+                <img src={phoneIcon} alt="phone" className="icon phone" />
                 <a href="tel:+91-9052335567">+91 - 9052335567</a>
             </div>
             <div>
-                <img src={locationIcon} alt="time" className="icon" />
+                <img src={timeIcon} alt="time" className="icon time" />
                 <span>9 AM - 5 PM</span>
             </div>
         </div>

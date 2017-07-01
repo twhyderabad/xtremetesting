@@ -24,14 +24,21 @@
     display: inline-block;
 }
 
+.seats__details .icon {
+    margin-right: 10px;
+}
+
 .seats .icon.seat {
     background: url(bug-white.svg);
     background-size: cover;
 }
 
 .seats .icon.clock {
-    background: url(clock.svg);
+    background: url(./../images/time-white.svg);
     background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
 }
 
 .seats .icon.seat--booked {
@@ -43,10 +50,6 @@
     color: #fff;
     margin: 7px 0;
     font-size: 1.1em;
-}
-
-.seats__details .icon {
-    margin-right: 10px;
 }
 
 @media (max-width: 900px) {

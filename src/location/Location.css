@@ -17,8 +17,19 @@
     font-size: 0.9rem;
 }
 
+.location__details a {
+    color: inherit;
+}
+
 .location img {
     margin-right: 10px;
+}
+
+.location .icon.time,
+.location .icon.phone,
+.location .icon.mail {
+    width: 25px;
+    height: 25px;
 }
 
 @media (max-width: 768px) {
@@ -31,7 +42,7 @@
 
 @media (min-width: 500px) and (max-width: 768px) {
     .location__details {
-        width: 260px;
+        width: 310px;
         padding: 10px 20px;
         float: right;
     }
