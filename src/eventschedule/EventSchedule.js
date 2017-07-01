@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import Day from "./Day";
 import clipboard from "./clipboard-with-pencil-.svg";
 import abhilash from "./abhilash.jpg";

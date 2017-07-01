@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-grid-gallery": "^0.4.0"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0",

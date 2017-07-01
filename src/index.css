@@ -9,6 +9,13 @@ body {
     padding: 2rem 6rem;
 }
 
+.container::after {
+    content: '';
+    display: table;
+    float: none;
+    clear: both;
+}
+
 @media (max-width: 767px) {
     .xs-full {
         display: block;

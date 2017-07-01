@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 767px) {
-    .event-schedule {
+    .event-schedule__details {
         flex-direction: column;
     }
 }

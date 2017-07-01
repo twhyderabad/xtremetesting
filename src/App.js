@@ -5,6 +5,7 @@ import About from './about/About';
 import Seats from './seats/Seats';
 import EventSchedule from './eventschedule/EventSchedule';
 import FAQs from './faq/FAQs';
+import Gallery from './gallery/Gallery';
 import Location from './location/Location';
 import Footer from './footer/Footer';
 
@@ -15,6 +16,7 @@ const App = () => (
         <Seats />
         <About />
         <FAQs />
+        <Gallery />
         <EventSchedule />
         <Location />
         <Footer />
