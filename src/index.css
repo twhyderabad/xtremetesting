@@ -36,3 +36,9 @@ body {
     border-bottom: 2px solid #83ba81;
     display: inline-block;
 }
+
+.icon {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}

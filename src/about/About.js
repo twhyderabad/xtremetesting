@@ -5,7 +5,7 @@ import image2 from './4.png';
 import image3 from './9.png';
 
 const About = () => (
-    <section className="container about">
+    <section className="container about" id="about">
         <div className="desc">
             <h1 className="section-heading">
                 About the event

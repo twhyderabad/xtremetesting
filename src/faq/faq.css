@@ -25,6 +25,7 @@ section.faqs {
 .question {
     padding: 10px 20px;
     border: 1px solid #bbb;
+    background: #fff;
 }
 
 .question.active {

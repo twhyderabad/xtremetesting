@@ -1,6 +1,6 @@
 import React from 'react';
 import './Banner.css';
-import location from './location.svg';
+import location from './../images/location.svg';
 
 const Banner = () => (
     <section className="banner">
