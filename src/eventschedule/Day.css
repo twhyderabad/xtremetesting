@@ -39,7 +39,8 @@
 }
 
 .day-wise-schedule .event .speaker-icon {
-    width: 30px;
+    width: 50px;
+    border-radius: 100%;
     float: left;
 }
 

@@ -1,11 +1,11 @@
 import React from "react";
 import Day from "./Day";
 import clipboard from "./clipboard-with-pencil-.svg";
-import abhilash from "./abhilash.jpg";
-import nalini from "./nalini.jpg";
+import abhilash from "./abhilash-t.jpg";
+import nalini from "./nalini-t.jpg";
 import spoonandfork from "./spoon-and-fork-crossed.svg";
-import ram from "./ram.jpg";
-import shiv from "./shiv.jpg";
+import ram from "./ram-t.jpg";
+import shiv from "./shiv-t.jpg";
 import scheduleIcon from "./noun_1000573_cc.svg";
 import cup from "./cup-of-hot-chocolate.svg";
 import './EventSchedule.css';
