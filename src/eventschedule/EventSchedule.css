@@ -1,7 +1,10 @@
 .event-schedule {
+    background: #f9fafa;
+}
+
+.event-schedule__details {
     display: flex;
     justify-content: center;
-    background: #f9fafa;
 }
 
 @media (max-width: 767px) {
