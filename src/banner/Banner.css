@@ -29,8 +29,9 @@
 }
 
 .banner .icon {
-    width: 2rem;
+    width: 30px;
     vertical-align: middle;
+    margin-right: 10px;
 }
 
 .banner .date,
@@ -41,10 +42,11 @@
 .banner .register {
     background: transparent;
     border: 1px solid #fff;
-    border-radius: 20px;
+    border-radius: 10px;
+    padding: 1px 20px;
     color: white;
-    padding: 5px 15px;
     font-size: 0.9rem;
+    font-weight: bold;
     text-transform: uppercase;
     margin-top: 2rem;
 }

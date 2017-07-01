@@ -41,7 +41,7 @@ const IMAGES = [
     }
 ];
 const Gallery = () => (
-    <section className="container">
+    <section className="container" id="gallery">
         <h1 className="section-heading">Gallery</h1>
         <GridGallery images={IMAGES} enableImageSelection={false} />
     </section>
