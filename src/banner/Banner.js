@@ -18,10 +18,14 @@ const Banner = () => (
                 <span>ThoughtWorks, Hyderabad</span>
             </span>
         </div>
-        <button className="register">
+        <a className="register"
+           href="https://docs.google.com/a/thoughtworks.com/forms/d/1VQj9Q-1kG13ZC-nGcrJM7ng1f8R57784t72xeg6BeEE/edit?ts=595b6690"
+           target="_blank"
+           rel="noopener noreferrer"
+        >
             <img src={unlinkIcon} alt="link" className="icon" />
             Register now
-        </button>
+        </a>
     </section>
 );
 
