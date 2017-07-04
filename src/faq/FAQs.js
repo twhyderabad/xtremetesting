@@ -28,15 +28,12 @@ const FAQs = () => (
                 </FAQ>
                 <FAQ question="What is the Selection Criteria?">
                     <p>
-                        Selection will be based on assessment of your solution to the given problems. There are two problems in the link given below.
-                    </p>
-                    <p>
-                         You can use any programming language/automation tool of your liking to solve it and submit your solution as per the given guidelines.
+                        Selection will be based on assessment of your solution to the given problems. There is a demo site in the link given below.
                     </p>
                     <p>
                         By design, the difficulty level of the problem will be low. It will test your basic testing skills and commitment to finish a given task (hopefully, implying the commitment to finish the course).
                     </p>
-                    <a href="https://twhyderabad.github.io/demo_site/" target="_blank" rel="noopener noreferrer">Here are the Questions</a>
+                    <a href="https://twhyderabad.github.io/demo_site/" target="_blank" rel="noopener noreferrer">Here is the Demo site to test</a>
                     <ol>
                         <li>List down the defects observed while performing Manual Testing</li>
                         <li>Share the automation test scenarios</li>
