@@ -29,6 +29,10 @@ section.faqs {
     cursor: pointer;
 }
 
+.description a {
+    color: #83ba81;
+}
+
 .question.active {
     background: #83ba81;
     color: #fff;

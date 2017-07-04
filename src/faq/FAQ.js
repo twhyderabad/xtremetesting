@@ -17,14 +17,14 @@ export default class Question extends Component {
         return(
             <div className="faq">
                 <div className={this.state.showDesc ? "question active" : "question"} onClick={this.toggleFaqDesc}>
-                    {this.props.faq.question}
+                    {this.props.question}
                     {
                         this.state.showDesc ?
                             <button className="close"> - </button>
                             : <button className="open"> + </button>
                     }
                 </div>
-                <div className= {this.state.showDesc ? "description": "hide description"}>{this.props.faq.desc}</div>
+                <div className= {this.state.showDesc ? "description": "hide description"}>{this.props.children}</div>
             </div>
         );
     }
