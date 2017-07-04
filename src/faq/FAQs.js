@@ -1,17 +1,6 @@
 import React from "react";
 import FAQ from "./FAQ";
 
-const faqs = [
-    {
-        "question": "Why Free?",
-        "desc": `Well, we have been active evangelists of these testing practices for many years.
-            Today we are very happy to see that there is increased interest and awareness of these testing concepts across India and in Hyderabad as well.
-            However, we feel that there is a big gap in the understanding and appreciation of these practices.
-            We would like to share our knowledge to build community around these practices.`
-    }
-];
-
-
 const FAQs = () => (
             <section className="container faqs">
                 <h1 className="section-heading">FAQ</h1>
