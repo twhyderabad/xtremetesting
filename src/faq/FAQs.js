@@ -2,7 +2,7 @@ import React from "react";
 import FAQ from "./FAQ";
 
 const FAQs = () => (
-            <section className="container faqs">
+            <section className="container faqs" id="faq">
                 <h1 className="section-heading">FAQ</h1>
                 <FAQ question="Who can apply?">
                     <p>

@@ -1,0 +1,10 @@
+.schedule {
+    text-align: center;
+    background: #ececec;
+    padding: 10px 10px 20px;
+}
+
+.schedule p {
+    font-weight: bold;
+    font-size: 1.1em;
+}

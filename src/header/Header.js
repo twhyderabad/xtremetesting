@@ -4,8 +4,9 @@ import logo from './logo-xt.png';
 
 const navLinks = [
     { "name": "About", "link": "#about" },
-    { "name": "Gallery", "link": "#gallery" },
     { "name": "Schedule", "link": "#schedule" },
+    { "name": "FAQ", "link": "#faq" },
+    { "name": "Gallery", "link": "#gallery" },
     { "name": "Contact", "link": "#contact" }
 ];
 

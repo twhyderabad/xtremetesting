@@ -3,7 +3,7 @@ import Header from './header/Header';
 import Banner from './banner/Banner';
 import About from './about/About';
 import Seats from './seats/Seats';
-import EventSchedule from './eventschedule/EventSchedule';
+import Schedule from './schedule/Schedule';
 import FAQs from './faq/FAQs';
 import Gallery from './gallery/Gallery';
 import Location from './location/Location';
@@ -15,10 +15,10 @@ const App = () => (
         <Banner />
         <Seats />
         <About />
+        <Schedule />
         <FAQs />
-        <Gallery />
-        <EventSchedule />
         <Location />
+        <Gallery />
         <Footer />
     </div>
 );
