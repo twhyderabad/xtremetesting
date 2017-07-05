@@ -3,7 +3,7 @@ import './SelectionCriteria.css';
 
 const SelectionCriteria = () => (
     <section className="selection container">
-        <h1 className="section-heading">What is the Selection Criteria?"</h1>
+        <h1 className="section-heading">What is the Selection Criteria?</h1>
         <p>
             Selection will be based on assessment of your solution to the given problems. There is a demo site in the link given below.
         </p>
