@@ -23,6 +23,9 @@ const FAQs = () => (
                         However, we feel that there is a big gap in the understanding and appreciation of these practices. We would like to share our knowledge to build community around these practices.
                     </p>
                 </FAQ>
+                <FAQ question="Can I get my laptop?">
+                    <p> We have all the arrangements, if you want you can get it. </p>
+                </FAQ>
             </section>
         );
 

@@ -33,7 +33,7 @@ const SelectionCriteria = () => (
 
         <div className="selection__details">
             <SelectionStep icon={problemsIcon} heading="Solve these two problems">
-                <FAQ question="Question">
+                <FAQ question="Question 1">
                     <p>Test the website for different scenarios manually and identify defects.</p>
                     <p>We look for high priority defects found while testing the application manually. Any non functional testing defects would be an added advantage</p>
                     <ul>
