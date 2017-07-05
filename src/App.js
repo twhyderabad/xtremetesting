@@ -4,6 +4,7 @@ import Banner from './banner/Banner';
 import About from './about/About';
 import Seats from './seats/Seats';
 import Schedule from './schedule/Schedule';
+import Agenda from './agenda/Agenda';
 import SelectionCriteria from './selectionCriteria/SelectionCriteria';
 import FAQs from './faq/FAQs';
 import Gallery from './gallery/Gallery';
@@ -16,7 +17,7 @@ const App = () => (
         <Banner />
         <Seats />
         <About />
-        <Schedule />
+        <Agenda />
         <SelectionCriteria />
         <FAQs />
         <Gallery />
