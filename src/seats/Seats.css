@@ -5,6 +5,10 @@
     align-items: center;
 }
 
+.container.seats {
+    padding: 2rem 15rem;
+}
+
 .seats__rows {
 
 }
