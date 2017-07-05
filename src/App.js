@@ -18,9 +18,9 @@ const App = () => (
         <About />
         <Schedule />
         <SelectionCriteria />
-        <Location />
         <FAQs />
         <Gallery />
+        <Location />
         <Footer />
     </div>
 );
