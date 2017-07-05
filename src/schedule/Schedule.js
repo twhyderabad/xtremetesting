@@ -10,7 +10,7 @@ const schedule = [
 ];
 
 const Schedule = () => (
-    <section className="schedule">
+    <section className="schedule" id="schedule">
         <h1 className="section-heading">Schedule</h1>
         {
             schedule.map((title, key) =>

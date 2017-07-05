@@ -1,5 +1,5 @@
 section.faqs {
-    background: #f9fafa;
+    background: #ececec;
 }
 
 .faq {
@@ -27,10 +27,6 @@ section.faqs {
     border: 1px solid #bbb;
     background: #fff;
     cursor: pointer;
-}
-
-.description a {
-    color: #83ba81;
 }
 
 .question.active {
