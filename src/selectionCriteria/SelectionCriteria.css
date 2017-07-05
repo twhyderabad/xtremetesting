@@ -79,6 +79,7 @@
     .selection__step {
         flex-direction: column;
         align-items: inherit;
+        text-align: center;
     }
 
     .selection__step .icon__container {

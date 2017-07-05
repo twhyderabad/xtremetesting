@@ -41,7 +41,7 @@
 
 @media (max-width: 599px) {
     .location.container {
-        background: none;
+        background: url(768-map.jpg);
     }
 
     .location__details {
