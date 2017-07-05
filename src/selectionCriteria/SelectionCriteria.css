@@ -75,7 +75,7 @@
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
     .selection__step {
         flex-direction: column;
         align-items: inherit;

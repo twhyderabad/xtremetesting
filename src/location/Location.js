@@ -11,9 +11,13 @@ const Location = () => (
             <h1 className="section-heading">Location</h1>
             <div>
                 <img src={locationIcon} alt="location" className="icon" />
-                <span>
-                    ThoughtWorks Hyderabad, 3rd Floor, Above KFC, Gachibowli
-                </span>
+                <a href="https://goo.gl/maps/TnKNhCYYKkE2" className="location-link" target="_blank" rel="noopener noreferrer">
+                    ThoughtWorks Hyderabad,
+                    <br />
+                    3rd Floor, Above KFC,
+                    <br />
+                    Gachibowli
+                </a>
             </div>
             <div>
                 <img src={mailIcon} alt="email" className="icon mail" />
