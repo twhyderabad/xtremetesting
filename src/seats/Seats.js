@@ -44,7 +44,7 @@ const Seats = () => (
             </div>
             <div>
                 <i className="icon clock" />
-                18 June - Last Date for Submission
+                24 July - Last Date for Submission
             </div>
         </div>
     </section>
