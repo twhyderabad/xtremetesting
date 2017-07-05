@@ -5,10 +5,6 @@
     align-items: center;
 }
 
-.container.seats {
-    padding: 2rem 15rem;
-}
-
 .seats__rows {
 
 }
@@ -69,5 +65,12 @@
 @media (max-width: 500px) {
     .seats__rows .icon.seat {
         margin-right: 0;
+    }
+}
+
+
+@media (min-width: 769px) {
+    .container.seats {
+        padding: 2rem 15rem;
     }
 }

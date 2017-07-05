@@ -1,6 +1,5 @@
 import React from "react";
 import './SelectionCriteria.css';
-import icon from './../images/time-white.svg';
 import FAQ from './../faq/FAQ';
 import submitIcon from './submit-here.svg';
 import credentialsIcon from './credentials.svg';

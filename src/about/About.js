@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import image1 from './1.png';
+import image1 from './1st-image.jpg';
 import image2 from './4.png';
 import image3 from './9.png';
 
@@ -19,9 +19,9 @@ const About = () => (
             </p>
         </div>
         <div className="images">
-            <img className="col-100" src={image3} alt="xtreme testing gallery"/>
+            <img className="col-100 full-image" src={image1} alt="xtreme testing gallery"/>
             <img className="col-50" src={image2} alt=""/>
-            <img className="col-50" src={image1} alt=""/>
+            <img className="col-50" src={image3} alt=""/>
         </div>
     </section>
 );

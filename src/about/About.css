@@ -6,12 +6,8 @@
     flex-basis: 50%;
 }
 
-.about .desc {
-
-}
-
-.about .image {
-
+.about .full-image {
+    width: 100%;
 }
 
 .about img {
