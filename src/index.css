@@ -9,7 +9,8 @@ body {
     padding: 2rem 6rem;
 }
 
-.container::after {
+.container::after,
+.clearfix::after {
     content: '';
     display: table;
     float: none;
