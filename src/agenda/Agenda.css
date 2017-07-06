@@ -28,3 +28,9 @@
     width: 50px;
     margin-bottom: 20px;
 }
+
+@media (max-width: 768px) {
+    .agenda.container {
+        padding: 2rem 0;
+    }
+}
