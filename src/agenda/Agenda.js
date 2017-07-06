@@ -15,7 +15,7 @@ const agendaItems = [
 ];
 
 const Agenda = () => (
-    <section className="agenda container">
+    <section className="agenda container" id="agenda">
         <h1 className="section-heading clearfix">Event Agenda</h1>
         <div className="agenda__items">
         {

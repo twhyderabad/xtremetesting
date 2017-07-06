@@ -65,6 +65,8 @@
 @media (max-width: 500px) {
     .seats__rows .icon.seat {
         margin-right: 0;
+        width: 30px;
+        height: 30px;
     }
 }
 
