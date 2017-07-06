@@ -22,7 +22,7 @@
 
 .selection__step {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 30px;
 }
 
