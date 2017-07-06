@@ -10,7 +10,7 @@
 }
 
 .seats__row {
-    margin: 5px 0;
+    margin: 15px 0;
 }
 
 .seats__rows .icon.seat {
@@ -19,8 +19,8 @@
 
 .seats .icon {
     vertical-align: middle;
-    width: 30px;
-    height: 30px;
+    width: 34px;
+    height: 34px;
     display: inline-block;
 }
 
@@ -48,8 +48,8 @@
 
 .seats__details > div {
     color: #fff;
-    margin: 7px 0;
-    font-size: 1.1em;
+    margin: 28px 0;
+    font-size: 1.2em;
 }
 
 @media (max-width: 900px) {
@@ -69,7 +69,7 @@
 }
 
 
-@media (min-width: 769px) {
+@media (min-width: 1025px) {
     .container.seats {
         padding: 2rem 15rem;
     }
