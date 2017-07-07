@@ -14,10 +14,10 @@ const Banner = () => (
                 <img src={calendarIcon} alt="Date and time" className="icon" />
                 <date>August 5th & 6th, 2017</date>
             </span>
-            <span className="location xs-full">
+            <a href="https://goo.gl/maps/TnKNhCYYKkE2" className="location xs-full" target="_blank" rel="noopener noreferrer">
                 <img src={location} alt="location" className="icon" />
                 <span>ThoughtWorks, Hyderabad</span>
-            </span>
+            </a>
         </div>
         <div className="button-group">
             <a className="button"
@@ -28,9 +28,7 @@ const Banner = () => (
                 <img src={unlinkIcon} alt="link" className="icon" />
                 Register now
             </a>
-            <a className="button"
-               href="#selection"
-            >
+            <a className="button submit-here" href="#selection">
                 <img src={submitIcon} alt="link" className="icon" />
                 Submit here
             </a>
