@@ -1,10 +1,14 @@
-**Xtremetesting**
+XtremeTesting
+---
+**About**
 
-It is a 2-day course with hands on exercises, designed to build a community of quality analysts who practice agile methodologies in software testing life cycle.
+It is a 2-day course with hands on exercises by [ThoughtWorks](https://www.thoughtworks.com/), designed to build a community of quality analysts who practice agile methodologies in software testing life cycle.
 
 This course will help quality analysts gain hands-on experience on Agile Testing Methodologies which can help in delivering quality software.
 
-**How to build**
+This Repo is the website for XtremeTesting event
+---
+**How to Build**
 
 - after cloning the repo install the node modules
 
