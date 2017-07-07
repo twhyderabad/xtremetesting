@@ -11,11 +11,15 @@ const About = () => (
                 About the event
             </h1>
             <p>
-                ThoughtWorks Hyderabad is glad to announce a free-for-all Extreme Testing for Quality Analysts camp. It is a 2-day
-                course with hands on exercises, designed to build a community of quality analysts who practice agile methodologies in software testing life cycle.
+                Enthusiasts from TW Hyderabad are back again to host another much awaited (repeat)
+                session on Xtreme Testing and are reaching out to the QA community to seek their participations.
+                Like before this is a 2-day course with hands-on, designed to build a community of
+                Quality Analysts who practice Agile methodologies in Software Testing Life Cycle.
             </p>
             <p>
-                This course will help quality analysts gain hands-on experience on Agile Testing Methodologies which can help in delivering quality software.
+                For those of you who have already been a part of the previous session(conducted earlier this year),
+                keep watching out this space, as we will be coming back in a few months with Advanced topics as a
+                continuation of this session and we look forward to your eager participation.
             </p>
         </div>
         <div className="images">

@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.about .desc {
+    padding-right: 10px;
+}
+
 .about > div {
     flex-basis: 50%;
 }

@@ -3,6 +3,7 @@ import './Banner.css';
 import location from './../images/location.svg';
 import calendarIcon from './calendar.svg';
 import unlinkIcon from './link.svg';
+import submitIcon from './../selectionCriteria/submit-here.svg';
 
 const Banner = () => (
     <section className="banner">
@@ -18,14 +19,22 @@ const Banner = () => (
                 <span>ThoughtWorks, Hyderabad</span>
             </span>
         </div>
-        <a className="register"
-           href="https://docs.google.com/a/thoughtworks.com/forms/d/1VQj9Q-1kG13ZC-nGcrJM7ng1f8R57784t72xeg6BeEE/edit?ts=595b6690"
-           target="_blank"
-           rel="noopener noreferrer"
-        >
-            <img src={unlinkIcon} alt="link" className="icon" />
-            Register now
-        </a>
+        <div className="button-group">
+            <a className="button"
+               href="https://docs.google.com/a/thoughtworks.com/forms/d/1VQj9Q-1kG13ZC-nGcrJM7ng1f8R57784t72xeg6BeEE/edit?ts=595b6690"
+               target="_blank"
+               rel="noopener noreferrer"
+            >
+                <img src={unlinkIcon} alt="link" className="icon" />
+                Register now
+            </a>
+            <a className="button"
+               href="#selection"
+            >
+                <img src={submitIcon} alt="link" className="icon" />
+                Submit here
+            </a>
+        </div>
     </section>
 );
 

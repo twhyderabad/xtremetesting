@@ -39,19 +39,35 @@
     padding: 10px 20px;
 }
 
-.banner .register {
+.banner .button-group {
+    margin-top: 2rem;
+}
+
+.banner .button {
     background: transparent;
     border: 1px solid #fff;
     border-radius: 10px;
-    padding: 1px 20px;
+    padding: 5px 20px;
     color: white;
     font-size: 0.9rem;
     font-weight: bold;
     text-transform: uppercase;
-    margin-top: 2rem;
     text-decoration: none;
+    margin-right: 10px;
 }
 
-.banner .register .icon {
+.banner .button .icon {
     width: 1rem;
+}
+
+.banner .button.submit-here .icon {
+    padding-bottom: 5px;
+}
+
+@media (max-width: 425px) {
+    .banner .button {
+        display: block;
+        margin-bottom: 10px;
+        padding: 3px 20px;
+    }
 }

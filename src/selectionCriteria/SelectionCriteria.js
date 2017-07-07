@@ -26,7 +26,7 @@ const SelectionStep = (props) => {
 };
 
 const SelectionCriteria = () => (
-    <section className="selection container">
+    <section className="selection container" id="selection">
         <h1 className="selection__heading">
             How to be part of <span className="highlight">Xtreme Testing?</span>
         </h1>

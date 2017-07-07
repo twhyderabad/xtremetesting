@@ -7,8 +7,12 @@ footer h3 {
     text-transform: uppercase;
 }
 
+footer .about-tw {
+    margin-right: 50px;
+}
+
 .connect-us {
-    flex-basis: 300px;
+    flex-basis: 400px;
 }
 
 .connect-us a {
