@@ -14,6 +14,9 @@ const FAQs = () => (
                     <p>
                         It is NOT restricted to only Hyderabadis. If you can manage your own travel and stay, you are most welcome to apply.      
                     </p>
+                    <p>
+                        People who attended XtremeTesting already, please don't attend, we are repeating the same. Will send you updates on part 2 soon.
+                    </p>
                 </FAQ>
                 <FAQ question="Why Free?">
                     <p>
