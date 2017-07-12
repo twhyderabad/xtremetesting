@@ -28,6 +28,7 @@ const Banner = () => (
                 <img src={unlinkIcon} alt="link" className="icon" />
                 Register now
             </a>
+            & &nbsp;
             <a className="button submit-here" href="#selection">
                 <img src={submitIcon} alt="link" className="icon" />
                 Submit here
