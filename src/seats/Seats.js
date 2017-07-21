@@ -2,7 +2,7 @@ import React from 'react';
 import './Seats.css';
 
 const totalSeats = 40;
-const bookedSeats = 0;
+const bookedSeats = 12;
 
 const renderSeatsIcon = (row) => {
     const arr = [];
