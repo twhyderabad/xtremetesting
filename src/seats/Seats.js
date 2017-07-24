@@ -2,7 +2,7 @@ import React from 'react';
 import './Seats.css';
 
 const totalSeats = 40;
-const bookedSeats = 12;
+const bookedSeats = 18;
 
 const renderSeatsIcon = (row) => {
     const arr = [];
@@ -44,7 +44,7 @@ const Seats = () => (
             </div>
             <div>
                 <i className="icon clock" />
-                24 July - Last Date for Submission
+                27 July - Last Date for Submission
             </div>
         </div>
     </section>
