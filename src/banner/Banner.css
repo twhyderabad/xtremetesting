@@ -23,6 +23,10 @@
     text-decoration: none;
 }
 
+.banner a.strike {
+    text-decoration: line-through;
+}
+
 .banner h1 {
     font-size: 5rem;
     margin: 0;

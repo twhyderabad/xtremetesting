@@ -20,16 +20,12 @@ const Banner = () => (
             </a>
         </div>
         <div className="button-group">
-            <a className="button"
-               href="https://docs.google.com/a/thoughtworks.com/forms/d/1VQj9Q-1kG13ZC-nGcrJM7ng1f8R57784t72xeg6BeEE/edit?ts=595b6690"
-               target="_blank"
-               rel="noopener noreferrer"
-            >
+            <a className="button strike">
                 <img src={unlinkIcon} alt="link" className="icon" />
                 Register now
             </a>
             & &nbsp;
-            <a className="button submit-here" href="#selection">
+            <a className="button submit-here strike">
                 <img src={submitIcon} alt="link" className="icon" />
                 Submit here
             </a>
