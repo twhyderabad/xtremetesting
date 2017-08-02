@@ -25,7 +25,7 @@ const Location = () => (
             </div>
             <div>
                 <img src={phoneIcon} alt="phone" className="icon phone" />
-                <a href="tel:+91-9052335567">+91 - 9052335567</a>
+                <a href="tel:+91-9663098005">+91 - 9663098005</a>
             </div>
             <div>
                 <img src={timeIcon} alt="time" className="icon time" />
