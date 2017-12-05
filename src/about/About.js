@@ -11,15 +11,15 @@ const About = () => (
                 About the event
             </h1>
             <p>
-                Enthusiasts from TW Hyderabad are back again to host another much awaited (repeat)
-                session on Xtreme Testing and are reaching out to the QA community to seek their participations.
-                Like before this is a 2-day course with hands-on, designed to build a community of
-                Quality Analysts who practice Agile methodologies in Software Testing Life Cycle.
+                Enthusiasts from TW Hyderabad are back again to host another much awaited Advanced
+                session on Xtreme Testing and are reaching out to the XT participants from previous sessions.
+                Like before this is a 2-day course with hands-on, covering Business-Driven Test with flavour of API,
+                Performance Testing and a few daily practices around security testing.
             </p>
             <p>
-                For those of you who have already been a part of the previous session(conducted earlier this year),
-                keep watching out this space, as we will be coming back in a few months with Advanced topics as a
-                continuation of this session and we look forward to your eager participation.
+                For those of you who have not received the invite/missed the previous sessions(conducted earlier this
+                year), keep watching out this space, as we will be coming back in a few months with next Basic XT session
+                and we look forward to your eager participation.
             </p>
         </div>
         <div className="images">

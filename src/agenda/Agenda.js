@@ -1,17 +1,13 @@
 import React from "react";
 import './Agenda.css';
-import agileQaIcon from './agile-qa-practices.svg';
+import perfTest from './performance-testing.png';
 import autamationIcon from './automation-and-framework.png';
-import ciCdIcon from './CI-and-CD.svg';
 import testingIcon from './testing-techniques.png';
-import introAgileIcon from './introduction-to-agile.svg';
 
 const agendaItems = [
-    { "agenda": "Introduction to Agile", "icon": introAgileIcon },
-    { "agenda": "Agile QA Practices", "icon": agileQaIcon },
-    { "agenda": "Testing Techniques", "icon": testingIcon },
-    { "agenda": "Test Automation and Frameworks", "icon": autamationIcon },
-    { "agenda": "Continuous Integration and Deployment", "icon": ciCdIcon }
+    { "agenda": "Business Driven Testing", "icon": autamationIcon },
+    { "agenda": "Performance Testing", "icon": perfTest },
+    { "agenda": "Basics of Security Testing", "icon": testingIcon },
 ];
 
 const Agenda = () => (

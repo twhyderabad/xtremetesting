@@ -4,9 +4,16 @@ import FAQ from "./FAQ";
 const FAQs = () => (
             <section className="container faqs" id="faq">
                 <h1 className="section-heading">FAQ</h1>
-                <FAQ question="Who can apply?">
+                <FAQ question="I am new participant and would like to attend">
                     <p>
-                        The Xtreme Testing concepts are not related to any tools. But some of the concepts and hands-on are explained using examples in Selenium with JAVA.
+                         This is an Advanced session of XT, where the previous attenedees requested for an in-depth session of topics covered.
+                    </p>
+                    <p>
+                         We will schedule the next basic XT session soon, watch out this space for more.
+                    </p>
+                <FAQ question="Who can attend?">
+                    <p>
+                        This session is open for ONLY previous XT attendees.
                     </p>
                     <p>
                         With this we also expect you to have atleast 3+ years of testing experience in manual and know the basics of automation testing.

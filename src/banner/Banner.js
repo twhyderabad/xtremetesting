@@ -7,17 +7,20 @@ import submitIcon from './../selectionCriteria/submit-here.svg';
 
 const Banner = () => (
     <section className="banner">
-        <h1>Xtreme Testing</h1>
+        <h1>Advanced - Xtreme Testing</h1>
         <h3>for Quality Analysts</h3>
         <div>
             <span className="date xs-full">
                 <img src={calendarIcon} alt="Date and time" className="icon" />
-                <date>August 5th & 6th, 2017</date>
+                <date>January 19th & 20th, 2018</date>
             </span>
             <a href="https://goo.gl/maps/TnKNhCYYKkE2" className="location xs-full" target="_blank" rel="noopener noreferrer">
                 <img src={location} alt="location" className="icon" />
                 <span>ThoughtWorks, Hyderabad</span>
             </a>
+        </div>
+        <div>
+            <B>Open to previous XT attendees only, invites have been sent.</B>
         </div>
         <div className="button-group">
             <a className="button strike">
