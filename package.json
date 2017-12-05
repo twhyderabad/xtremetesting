@@ -11,7 +11,7 @@
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.7"
   },
-  "homepage": "http://twhyderabad.github.io/xtremetesting",
+  "homepage": "http://twhyderabad.github.io/adv-xtremetesting",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
