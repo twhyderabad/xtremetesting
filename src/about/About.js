@@ -15,7 +15,7 @@ const About = () => (
                 session is primarily focused on providing in-depth knowledge on topics covered from previous
                 introductory sessions of Xtreme Testing. The topics have been chosen based on the feedback received.
             </p><p>
-                Like before this is a 2-day course with hands-on, covering Business-Driven Testing with flavour of API,
+                Like before this is a 2-day course with hands-on, covering Behaviour-Driven Testing, Service Layer Testing,
                 Performance Testing and a few crucial yet daily practices that we should adopt around security testing.
             </p>
             <p>

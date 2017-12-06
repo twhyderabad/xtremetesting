@@ -1,11 +1,13 @@
 import React from "react";
 import './Agenda.css';
+import bddTest from './bdd-testing.png';
+import serviceTest from './api-testing.png';
 import perfTest from './performance-testing.png';
-import autamationIcon from './automation-and-framework.png';
 import securityTest from './security-testing.jpg';
 
 const agendaItems = [
-    { "agenda": "Business Driven Testing", "icon": autamationIcon },
+    { "agenda": "Behaviour Driven Testing", "icon": bddTest },
+    { "agenda": "Service Layer Testing", "icon": serviceTest },
     { "agenda": "Performance Testing", "icon": perfTest },
     { "agenda": "Basics of Security Testing", "icon": securityTest },
 ];

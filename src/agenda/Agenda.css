@@ -1,5 +1,5 @@
 .agenda {
-    background: #f3f3f3;
+    background: #dadada;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 320px;
+    width: 220px;
     height: 210px;
     float: left;
     padding: 50px;
@@ -32,7 +32,7 @@
 }
 
 .agenda__item img {
-    width: 50px;
+    width: 75px;
     margin-bottom: 20px;
 }
 
