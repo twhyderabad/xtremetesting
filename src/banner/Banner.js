@@ -12,7 +12,7 @@ const Banner = () => (
         <div>
             <span className="date xs-full">
                 <img src={calendarIcon} alt="Date and time" className="icon" />
-                <date>January 19th & 20th, 2018</date>
+                <date>January 20th & 21st, 2018</date>
             </span>
             <a href="https://goo.gl/maps/TnKNhCYYKkE2" className="location xs-full" target="_blank" rel="noopener noreferrer">
                 <img src={location} alt="location" className="icon" />
