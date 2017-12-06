@@ -20,19 +20,8 @@ const Banner = () => (
             </a>
         </div>
         <div>
-            <B>Open to previous XT attendees only, invites have been sent.</B>
-        </div>
-        <div className="button-group">
-            <a className="button strike">
-                <img src={unlinkIcon} alt="link" className="icon" />
-                Register now
-            </a>
-            & &nbsp;
-            <a className="button submit-here strike">
-                <img src={submitIcon} alt="link" className="icon" />
-                Submit here
-            </a>
-        </div>
+             <h3> This session is open for previous XT attendees only.</h3>
+         </div>
     </section>
 );
 

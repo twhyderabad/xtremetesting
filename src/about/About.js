@@ -11,14 +11,16 @@ const About = () => (
                 About the event
             </h1>
             <p>
-                Enthusiasts from TW Hyderabad are back again to host another much awaited Advanced
-                session on Xtreme Testing and are reaching out to the XT participants from previous sessions.
-                Like before this is a 2-day course with hands-on, covering Business-Driven Test with flavour of API,
-                Performance Testing and a few daily practices around security testing.
+                Advanced - Xtreme Testing (XT), is being hosted again by enthusiasts from ThoughtWorks, Hyderabad. This
+                session is primarily focused on providing in-depth knowledge on topics covered from previous
+                introductory sessions of Xtreme Testing. The topics have been chosen based on the feedback received.
+            </p><p>
+                Like before this is a 2-day course with hands-on, covering Business-Driven Testing with flavour of API,
+                Performance Testing and a few crucial yet daily practices that we should adopt around security testing.
             </p>
             <p>
-                For those of you who have not received the invite/missed the previous sessions(conducted earlier this
-                year), keep watching out this space, as we will be coming back in a few months with next Basic XT session
+                For those of you who have not received the invite/missed the previous sessions conducted earlier this
+                year, keep watching out this space, as we will be coming back in a few months with next Basic XT session
                 and we look forward to your eager participation.
             </p>
         </div>
