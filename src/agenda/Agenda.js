@@ -6,8 +6,8 @@ import perfTest from './performance-testing.png';
 import securityTest from './security-testing.jpg';
 
 const agendaItems = [
-    { "agenda": "BDD(Behavior Driven Development) using Gauge", "icon": bddTest },
-    { "agenda": "Service Layer Automation using Unirest", "icon": serviceTest },
+    { "agenda": "Gauge your Tests the BDD way", "icon": bddTest },
+    { "agenda": "Service Layer Automation", "icon": serviceTest },
     { "agenda": "Performance Testing using Gatling", "icon": perfTest },
     { "agenda": "Basics of Security Testing", "icon": securityTest },
 ];
