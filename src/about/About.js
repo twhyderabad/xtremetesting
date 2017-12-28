@@ -11,7 +11,7 @@ const About = () => (
                 About the event
             </h1>
              <p>
-                Advanced - Xtreme Testing (XT), is being hosted again by enthusiasts from ThoughtWorks, Hyderabad. This
+                Xtreme Testing : Advanced, is being hosted again by enthusiasts from ThoughtWorks, Hyderabad. This
                 session is primarily focused on providing in-depth knowledge on topics covered from previous
                 introductory sessions of Xtreme Testing. The topics have been chosen based on the feedback received.
             </p><p>

@@ -31,7 +31,7 @@ const FAQs = () => (
                 </FAQ>
                 <FAQ question="Can I get my laptop?">
                     <p>
-                       We do provide laptops. If you wish to carry your personal laptop, please inform us as we shall share the instructions for you to setup the environment.
+                       Preferably no. We will be providing the participants with the laptops on the day of workshop.
                     </p>
                 </FAQ>
             </section>

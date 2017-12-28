@@ -7,7 +7,7 @@ import submitIcon from './../selectionCriteria/submit-here.svg';
 
 const Banner = () => (
     <section className="banner">
-        <h1>Advanced - Xtreme Testing</h1>
+        <h1>Xtreme Testing : Advanced</h1>
         <h3>for Quality Analysts</h3>
         <div>
             <span className="date xs-full">
