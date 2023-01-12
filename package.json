@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "gh-pages": "^1.0.0",
-    "react-scripts": "1.0.7"
+    "react-scripts": "1.1.5"
   },
   "homepage": "http://twhyderabad.github.io/xtremetesting",
   "scripts": {
